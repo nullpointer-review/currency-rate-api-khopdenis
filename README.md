@@ -18,5 +18,6 @@
 	java -jar target\rate-cbr-example-0.1.0.jar --server.port=8181
 
 5. Отправить запросы через браузер, SoapUI или любое другое средство
+
 	GET http://localhost:8181/currency/api/rate/USD
 	GET http://localhost:8181/currency/api/rate/USD/2015-11-09
